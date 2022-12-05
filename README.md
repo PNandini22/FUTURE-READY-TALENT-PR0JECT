@@ -21,26 +21,22 @@ This is a web based application developed for health related based website in in
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, Contact, Help, Pet related information etc.
 
-## Screenshots
+# Screenshots
+
+### Static Web Apps -
+![petology - Microsoft Azure - Google Chrome 12_5_2022 8_01_50 PM](https://user-images.githubusercontent.com/118961667/205662898-2ba19ebb-57eb-4279-9e71-11310468dd90.png)
+
+### Azure Health Bot -
+![petology - Microsoft Azure - Google Chrome 12_5_2022 8_05_11 PM](https://user-images.githubusercontent.com/118961667/205663597-e731d6c2-20b2-42a2-8989-a65feff63624.png)
 
 
 
 
-   
-
-### About Us -
 
 
 
-### Services -
 
 
-
-### Contact us -
-
-
-
-### health bot
 
 
 
