@@ -7,6 +7,8 @@ This is a web based application developed for health related based website in in
 
 **Microsoft Azure Static Web Apps Link**-https://gentle-sea-0f79f4600.2.azurestaticapps.net
 
+**Project link** -https://pnandini22.github.io/FUTURE-READY-TALENT-PR0JECT/
+
 **Project demo video link** - 
 
 ## Azure technologies used for Project
